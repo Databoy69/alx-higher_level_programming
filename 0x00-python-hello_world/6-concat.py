@@ -2,5 +2,5 @@
 str1 = "Holberton"
 str2 = "school"
 str1 + " " + str2
-print(f "weclome to {}!". format(str1))
+print("weclome to {}!".format(str1))
 
