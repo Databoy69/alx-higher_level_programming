@@ -38,4 +38,8 @@ class Rectangle:
             raise TypeError("height must be an integer")
         if value < 0:
             raise ValueError("height must be >= 0")
+<<<<<<< HEAD
+        self.__height = 
+=======
         self.__height = value
+>>>>>>> bff9a95a211c10da72853c916f5a18c2f8fa76a9
