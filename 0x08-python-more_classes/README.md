@@ -1,8 +1,6 @@
 # 0x08-python-more_classes
-<<<<<<< HEAD
-=======
 
->>>>>>> bff9a95a211c10da72853c916f5a18c2f8fa76a9
+
 # Resources
 
  Object Oriented Programming (Read everything until the paragraph “Inheritance” (excluded))
@@ -11,7 +9,4 @@ Class and Instance Attributes
 classmethods and staticmethods
 Properties vs. Getters and Setters (Mainly the last part “Public instead of Private Attributes”)
 str vs repr
-<<<<<<< HEAD
 
-=======
->>>>>>> bff9a95a211c10da72853c916f5a18c2f8fa76a9
